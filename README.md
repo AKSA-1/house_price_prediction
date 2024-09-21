@@ -1,7 +1,3 @@
-Here's an example of how you could write a README file for this stock price prediction model.
-
----
-
 # Stock Price Prediction Using Hybrid GRU + LSTM Model
 
 ## Project Overview
