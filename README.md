@@ -1,7 +1,3 @@
-Here’s the enhanced README file, including author information, setup instructions, usage, and all necessary details:
-
----
-
 # Stock Price Prediction Using Hybrid GRU + LSTM Model
 
 ## Project Overview
